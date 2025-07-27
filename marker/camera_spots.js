@@ -10,8 +10,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    207.25,
-                    -108.5
+                    79.75,
+                    -58.5
                 ]
             }
         },
@@ -24,8 +24,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.5,
-                    -139
+                    80.125,
+                    -75.75
                 ]
             }
         },
@@ -38,8 +38,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73,
-                    -128.75
+                    46.875,
+                    -81
                 ]
             }
         },
@@ -52,8 +52,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.5,
-                    -212.25
+                    59.625,
+                    -102.25
                 ]
             }
         },
@@ -66,8 +66,50 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.25,
-                    -173.5
+                    74.125,
+                    -103.125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "06",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.75,
+                    -97.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "07",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.125,
+                    -82.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "08",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.375,
+                    -98.25
                 ]
             }
         }
